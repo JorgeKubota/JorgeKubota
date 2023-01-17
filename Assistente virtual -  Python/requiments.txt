@@ -1,0 +1,5 @@
+SpeechRecognition
+pip install pyttsx3
+PyAudio
+pip install wikipedia
+pip install pywhatkit
